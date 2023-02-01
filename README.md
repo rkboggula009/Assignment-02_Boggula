@@ -33,7 +33,6 @@ I have visited like 4 countries till now .I love visiting places.i would recomme
 *********
 ## Funny Quotes
 
->" I'm not superstitious, but i am a little stitious."
--*Michael Scott.
->" People say nothing is impossible ,bt i do nothing everyday. "
--*A.A.Milne.
+>" I'm not superstitious, but i am a little stitious." *Michael Scott*
+
+>" People say nothing is impossible ,bt i do nothing everyday. " *A.A.Milne*
