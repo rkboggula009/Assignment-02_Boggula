@@ -41,12 +41,7 @@ I have visited like 4 countries till now .I love visiting places.i would recomme
 ## Code Fencing 
 > [How to find SVG curved text along a circle clip path element not displaying?](https://stackoverflow.com/questions/52249959/svg-curved-text-along-a-circle-clip-path-element-not-displaying)
 
-`` <svg viewBox="0 0 500 500"> ``
-``   <path id="curve" d="M73.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,1.2,170.8,90.3,175.1,97" />``
-``   <text width="500">``
-``      <textPath alignment-baseline="top" xlink:href="#curve">``
-``        Dangerous Curves Ahead ``
-``     </textPath>  ``
-``   </text> ``
-`` </svg> ``
-> [Answer](https://css-tricks.com/snippets/svg/curved-text-along-path/)
+`` <svg viewBox="0 0 500 500"><path id="curve" d="M73.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,1.2,170.8,90.3,175.1,97" /><text width="500"><textPath alignment-baseline="top" xlink:href="#curve"> DangerousCurves Ahead </textPath></text></svg> ``
+[Answer](https://css-tricks.com/snippets/svg/curved-text-along-path/) 
+
+
