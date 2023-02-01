@@ -39,9 +39,8 @@ I have visited like 4 countries till now .I love visiting places.i would recomme
 
 *******************
 ## Code Fencing 
-> [How to find SVG curved text along a circle clip path element not displaying?](https://stackoverflow.com/questions/52249959/svg-curved-text-along-a-circle-clip-path-element-not-displaying)
+ > [How To Embed Flash Files In A Web Page?](https://www.bluehost.com/hosting/help/flash-files#:~:text=Choose%20File%20%3E%20Publish.,the%20classid%20and%20pluginspage%20attributes.&text=Open%20the%20HTML%20document%20that,you%20want%20your%20Flash%20movie.) 
 
-`` <svg viewBox="0 0 500 500"><path id="curve" d="M73.2,148.6c4-6.1,65.5-96.8,178.6-95.6c111.3,1.2,170.8,90.3,175.1,97" /><text width="500"><textPath alignment-baseline="top" xlink:href="#curve"> DangerousCurves Ahead </textPath></text></svg> ``
-[Answer](https://css-tricks.com/snippets/svg/curved-text-along-path/) 
+```<object type="application/x-shockwave-flash" data="your-flash-file.swf" width="0" height="0"><param name="movie" value="your-flash-file.swf" /><param name="quality" value="high"/></object>```
 
-
+[Answer](https://css-tricks.com/snippets/html/embedding-flash/)
