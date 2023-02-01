@@ -5,7 +5,7 @@ This Game Requires Not only Physical strength But also Mental Strength. This gam
 
 -----------------------------------------------------------
 # Argentina National Foodball Team 
-The Three best Players on the team in order are,
+The Three best Players on the team in order are 
 1. Leonal Messi
 2. Emiliano Martinez
 3. Paulo Dybala
