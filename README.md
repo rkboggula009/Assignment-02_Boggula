@@ -13,4 +13,21 @@ The Three best Players on the team in order are
  Other teams i would love to watch to play
 * Portugal National Foodball Team
 * FC Barcelona 
-* Real Madrid CF
+* Real Madrid CF.
+
+[click this link to know more about me](AboutMe.md)
+
+**********
+
+## Favourite Countries to visit
+I have visited like 4 countries till now .I love visiting places.i would recommend these 4 countries i visited till now.
+
+---------------------------------------------------------------
+|Country   |         Reason                    |   Days spend |
+|----------|-----------------------------------|--------------|
+|India     |     Rich in Culture,food          |      100     |
+|Japan     |    Booming in Culturer            |      20      |
+|Finland   |     Most Happiest country         |      15      |
+|Pris      |   Eiffel Tower,Disneyland Paris   |      15      |
+
+*********
